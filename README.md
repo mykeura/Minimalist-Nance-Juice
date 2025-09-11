@@ -1,6 +1,6 @@
 # Minimalist Nance Juice 🍊
 
-The official Minimalist Nance Juice theme for Chromium-based browsers. A minimalist theme with a color palette inspired by Nance Juice, designed for a serene and elegant browsing experience.
+The official Minimalist Nance Juice theme for Chromium-based browsers. This design pairs a clean, distraction-free interface with a color scheme that reflects the essence of Nance Juice, creating a serene and focused browsing experience.
 
 ![Minimalist Nance Juice Theme Preview](images/preview.png)
 
